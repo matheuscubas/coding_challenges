@@ -20,4 +20,4 @@ There are <strong><i>n = 5</i></strong> elements, two positive, two negative and
 
 
 ## HackerRank challenge link!
-try it yourself<a href="https://www.hackerrank.com/challenges/plus-minus/problem">here</a>
+try it yourself <a href="https://www.hackerrank.com/challenges/plus-minus/problem">here</a>
