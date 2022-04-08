@@ -1,0 +1,8 @@
+C:\Users\maath\Desktop\Matheus\Dev\coding_challenges\Apples and Oranges\CSharp\bin\Debug\applesAndOranges.exe.config
+C:\Users\maath\Desktop\Matheus\Dev\coding_challenges\Apples and Oranges\CSharp\bin\Debug\applesAndOranges.exe
+C:\Users\maath\Desktop\Matheus\Dev\coding_challenges\Apples and Oranges\CSharp\bin\Debug\applesAndOranges.pdb
+C:\Users\maath\Desktop\Matheus\Dev\coding_challenges\Apples and Oranges\CSharp\obj\Debug\applesAndOranges.csproj.AssemblyReference.cache
+C:\Users\maath\Desktop\Matheus\Dev\coding_challenges\Apples and Oranges\CSharp\obj\Debug\applesAndOranges.csproj.SuggestedBindingRedirects.cache
+C:\Users\maath\Desktop\Matheus\Dev\coding_challenges\Apples and Oranges\CSharp\obj\Debug\applesAndOranges.csproj.CoreCompileInputs.cache
+C:\Users\maath\Desktop\Matheus\Dev\coding_challenges\Apples and Oranges\CSharp\obj\Debug\applesAndOranges.exe
+C:\Users\maath\Desktop\Matheus\Dev\coding_challenges\Apples and Oranges\CSharp\obj\Debug\applesAndOranges.pdb
